@@ -9,4 +9,4 @@ Welcome to the Stopwatch Project! We will create a timer displayed at the top, a
 ## demo
 
 ---
-click [here]() to see demo
+click [here](https://almousaz.github.io/Simple-Stopwatch-Project/) to see demo
